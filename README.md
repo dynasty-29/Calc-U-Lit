@@ -3,7 +3,7 @@
 
 Welcome to Calc-U-Lit, your go-to calculator for all your mathematical needs!
 
-![Calc-U-Lit Preview](Calc-U-Lit\calculator.png)
+![Calc-U-Lit Preview](calculator.png)
 
 ###  Overview
 Calc-U-Lit is a sleek and efficient calculator designed to simplify your calculations while adding a touch of style to your workspace. Whether you're solving complex equations or simply crunching numbers, Calc-U-Lit is here to make your mathematical tasks a breeze.
